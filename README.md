@@ -12,3 +12,7 @@ local fs
 
 ## How To Contribute
 
+
+##### Copyright
+
+Git training
