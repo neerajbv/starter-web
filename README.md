@@ -11,7 +11,8 @@ This is a sample web project, deployment can be on a webserver or even
 local fs
 
 ## How To Contribute
-
+Please for this repository and then issue Pull request for
+review
 
 ##### Copyright
 
